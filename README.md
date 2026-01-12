@@ -8,6 +8,7 @@ and predicting customer responses using supervised learning techniques.
 
 This project demonstrates professional data science practices including
 EDA, feature engineering, preprocessing pipelines, and model evaluation.
+<img width="1024" height="1536" alt="ChatGPT Image Jan 12, 2026, 01_10_33 PM" src="https://github.com/user-attachments/assets/cba1024f-8230-4949-81f3-83a37726aa6e" />
 
 ---
 
@@ -57,3 +58,16 @@ customer outcomes based on demographic and behavioral features.
 ---
 
 ## 📁 Repository Structure
+
+
+
+
+
+👤 Author
+
+Hammad Zahid
+Data Scientist | Machine Learning | Python
+
+🔗 GitHub: https://github.com/Hamad-Ansari
+
+🔗 LinkedIn: https://www.linkedin.com/in/hammad-zahid-xyz
