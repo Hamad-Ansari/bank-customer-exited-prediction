@@ -58,6 +58,8 @@ customer outcomes based on demographic and behavioral features.
 ---
 
 ## 📁 Repository Structure
+<img width="1169" height="1769" alt="output" src="https://github.com/user-attachments/assets/b3565acb-5a07-458e-8d88-879e2e35058f" />
+<img width="963" height="889" alt="666" src="https://github.com/user-attachments/assets/46e45c6d-cc08-498e-ab05-25b02abe36f7" />
 
 
 
