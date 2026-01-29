@@ -73,3 +73,14 @@ Data Scientist | Machine Learning | Python
 🔗 GitHub: https://github.com/Hamad-Ansari
 
 🔗 LinkedIn: https://www.linkedin.com/in/hammad-zahid-xyz
+
+# 👤 Author
+
+**Hammad Zahid**
+Data Scientist | Machine Learning | Python
+
+🔗 GitHub: https://github.com/Hamad-Ansari
+
+🔗 LinkedIn: https://www.linkedin.com/in/hammad-zahid-xyz
+
+Kaggle: https://www.kaggle.com/hammadansari7
